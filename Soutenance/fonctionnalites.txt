@@ -1,0 +1,21 @@
+-Gestion des projets
+
+-Gestion Vehicules
+	-Vehicule(type,carburant)
+	-Page insertion nouveau vehicule
+	-Liste Vehicule
+	-Mouvement Vehicule
+	-Deplacement, calcul carburant lany isaky ny deplacement 
+	-Mampiditra vola miala am vehicule (Entretien, Panne)
+
+-Gestion Ressources
+	-Ajout nouvelle ressource
+	-Ajout stock ressource
+
+-Tableau de bord financiere
+	-vola miala am vehicule
+	-vola miala am fampidirana ressource
+	-vola am karaman'ny technicien
+
+Ao amin'ny projet
+-Affectation vehicule sur site	
